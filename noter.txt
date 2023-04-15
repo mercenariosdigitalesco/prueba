@@ -5,5 +5,14 @@ cuando ya este en el escritorio ejecutar cd "Hello Git" el nombre ded la carpeta
 ya estoy en carpeta y ejecutar LS para saber que archivos estan y luego ejecutar GIT STATUS o GIT LOG para saber que se ha hecho.
 git add note.txt para prepaarar.
 luego git commit -m "escribir el comentario" para crear el commit
-git status para revisar como esta
-Git LOG para revisar  lo que se hizo
+git status para revisar como esta 
+Git LOG para revisar  lo que se hizo cuando se realicen cambios volver a escribir GIT STATUS para mirar 
+lo que se ha modificado.
+git reset para restear hasta el ultimo commit y git checkout para volverle un paso antes de un archivo
+git tree para reemplazar el git Log para revisar los cambios.
+el comando touch es para crear nuevos archivos en el repositorio git
+creamos el .gitignore para esconder lso arvhicos que no necesitamos tener.
+Ahora vamos a usar el .gitdiff para mirar cuales son los cambios vs a los anteriores.
+desplazamientos por git podemos colocar el id para traer los datos.
+git reset --hard id para devolverse hasta el commit agregado y adelantarse.
+git reflog mostrar el historial.
