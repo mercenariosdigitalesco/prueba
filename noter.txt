@@ -1,0 +1,9 @@
+Primer comando a ejecutar es pwd para ubicarme donde estoy.
+segundo comando es lw para saber donde estoy parado.
+CD desktop para ir al Escritorio  y empezar a ubicar mi archivo
+cuando ya este en el escritorio ejecutar cd "Hello Git" el nombre ded la carpeta que estoy buscando.
+ya estoy en carpeta y ejecutar LS para saber que archivos estan y luego ejecutar GIT STATUS o GIT LOG para saber que se ha hecho.
+git add note.txt para prepaarar.
+luego git commit -m "escribir el comentario" para crear el commit
+git status para revisar como esta
+Git LOG para revisar  lo que se hizo
